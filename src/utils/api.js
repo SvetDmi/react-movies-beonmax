@@ -9,7 +9,7 @@ const API_KEY = process.env.API_MOVIES_KEY;
 
 export const getMovies = (str, type = "all") => {
   return fetch(
-    `http://www.omdbapi.com/?apikey=${API_KEY}&s=${str}${
+    `https://www.omdbapi.com/?apikey=${API_KEY}&s=${str}${
       type !== "all" ? `&type=${type}` : ""
     }`
   ).then((res) => {

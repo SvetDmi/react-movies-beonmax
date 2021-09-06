@@ -16,6 +16,7 @@ function Main() {
       })
       .catch((err) => {
         console.log(err);
+        setLoading(false);
       });
   }, []);
 
@@ -28,6 +29,7 @@ function Main() {
       })
       .catch((err) => {
         console.log(err);
+        setLoading(false);
       });
   };
 
