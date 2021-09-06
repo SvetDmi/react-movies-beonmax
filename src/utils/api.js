@@ -5,7 +5,7 @@
 //   "Content-Type": "application/json",
 // };
 
-const API_KEY = process.env.API_MOVIES_KEY;
+const API_KEY = process.env.REACT_APP_API_KEY;
 
 export const getMovies = (str, type = "all") => {
   return fetch(
