@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-movies-beonmax/static/css/main.0626f2d0.chunk.css",
+    "main.js": "/react-movies-beonmax/static/js/main.27662ff2.chunk.js",
+    "main.js.map": "/react-movies-beonmax/static/js/main.27662ff2.chunk.js.map",
+    "runtime-main.js": "/react-movies-beonmax/static/js/runtime-main.90c1bd82.js",
+    "runtime-main.js.map": "/react-movies-beonmax/static/js/runtime-main.90c1bd82.js.map",
+    "static/js/2.c9452d57.chunk.js": "/react-movies-beonmax/static/js/2.c9452d57.chunk.js",
+    "static/js/2.c9452d57.chunk.js.map": "/react-movies-beonmax/static/js/2.c9452d57.chunk.js.map",
+    "index.html": "/react-movies-beonmax/index.html",
+    "static/css/main.0626f2d0.chunk.css.map": "/react-movies-beonmax/static/css/main.0626f2d0.chunk.css.map",
+    "static/js/2.c9452d57.chunk.js.LICENSE.txt": "/react-movies-beonmax/static/js/2.c9452d57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90c1bd82.js",
+    "static/js/2.c9452d57.chunk.js",
+    "static/css/main.0626f2d0.chunk.css",
+    "static/js/main.27662ff2.chunk.js"
+  ]
+}
